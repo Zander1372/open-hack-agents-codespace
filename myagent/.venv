@@ -1,0 +1,2 @@
+PROJECT_ENDPOINT="https://pizza-foundry-resouces-7yud.services.ai.azure.com/api/projects/Pizza-Workshop"
+MODEL_DEPLOYMENT_NAME="gpt-5.4"
